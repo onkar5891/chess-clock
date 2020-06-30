@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import ChessClock from "./components/ChessClock";
 import * as serviceWorker from './serviceWorker';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../src/css/FontAwesome.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ChessClock />
   </React.StrictMode>,
   document.getElementById('root')
 );

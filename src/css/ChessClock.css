@@ -1,0 +1,42 @@
+.chess-clock-container {
+    background-color: #e9ecef;
+    border-radius: 1rem;
+}
+
+.chess-clock-title {
+    font-size: 7rem;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.timer {
+    font-size: 6rem;
+    border: 0.5rem solid brown;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+
+.pl-white {
+    background-color: white;
+    color: black;
+}
+
+.pl-black {
+    background-color: black;
+    color: white;
+}
+
+.margined {
+    margin: 1rem;
+}
+
+.margined {
+    margin: 2rem;
+}
+
+.centered-justification {
+    justify-content: center;
+}
